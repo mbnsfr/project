@@ -1,0 +1,9 @@
+{
+  "appId": "myAppId",
+  "masterKey": "mySecretMasterKey",
+  "appName": "parse-server-learn",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://172.17.0.2:27017",
+  "serverURL": "http://localhost:1337/parse"
+}
+

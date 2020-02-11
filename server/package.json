@@ -1,0 +1,12 @@
+{
+  "name": "parse-server-learn",
+  "version": "1.0.0",
+  "description": "parse-server for parse-server-learn",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "parse-server": "^3.10.0"
+  }
+}
